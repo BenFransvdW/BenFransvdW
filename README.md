@@ -7,9 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any fun and exciting ideas**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ben-van-f-der-westhuizen/](https://www.linkedin.com/in/ben-van-f-der-westhuizen/)
-
-- 💬 Ask me about **Java, Python**
+- 👨‍💻 All of my projects are available at https://benfransvdw.github.io/
 
 - 📫 How to reach me **benvdwest7@gmail.com**
 
