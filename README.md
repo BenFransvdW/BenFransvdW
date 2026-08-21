@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any fun and exciting ideas**
 
-- 👨‍💻 All of my projects are available at https://benfransvdw.github.io/
+- 👨‍💻 All of my projects are available at http://www.benvdw.com
 
 - 📫 How to reach me **benvdwest7@gmail.com**
 
